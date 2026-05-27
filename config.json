@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdonnect",
+        "uuid": 7276164,
+        "checksum": "p9m23a"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
